@@ -13,7 +13,7 @@ The results are saved to a CSV file.
 
 ## Project Structure
 ```
-nominatim_Workshop&country/ 
+Nominatim-Workshop-Country-Scraper/ 
 ├── src/main.py # main scraper script 
 ├── output/
 │   └── Workshop&country.csv # output CSV and optional screenshots
@@ -34,7 +34,7 @@ python src/main.py
 ```
 
 ## Demo.gif
-![demo](docs/demo)
+![Demo_GIF](docs/demo)
 
 #### 👨💻 About This Project
 
