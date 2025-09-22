@@ -31,6 +31,9 @@ playwright install
 python src/main.py
 ```
 
+## Demo.gif
+![Demo GIF](docs/demo.gif)
+
 #### 👨💻 About This Project
 
 Hi, my name is Zhasulan Agybay and this is my web scraping project.  
