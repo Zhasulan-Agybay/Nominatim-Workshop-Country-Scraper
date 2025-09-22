@@ -16,7 +16,9 @@ The results are saved to a CSV file.
 nominatim_Workshop&country/ 
 ├── src/main.py # main scraper script 
 ├── output/
-│   └── Workshop&country.csv # output CSV and optional screenshots 
+│   └── Workshop&country.csv # output CSV and optional screenshots
+├── docs/
+│   └── demo.gif
 ├── .gitignore
 ├── requirements.txt # dependencies 
 └── README.md # project description
@@ -32,7 +34,7 @@ python src/main.py
 ```
 
 ## Demo.gif
-![Demo GIF](docs/demo.gif)
+![demo](docs/demo)
 
 #### 👨💻 About This Project
 
