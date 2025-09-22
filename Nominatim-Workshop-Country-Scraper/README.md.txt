@@ -11,6 +11,7 @@ The results are saved to a CSV file.
 - Saves results in CSV format
 
 ## Project Structure
+```
 nominatim_Workshop&country/ 
 ├── src/main.py # main scraper script 
 ├── output/
@@ -18,6 +19,7 @@ nominatim_Workshop&country/
 ├── .gitignore
 ├── requirements.txt # dependencies 
 └── README.md # project description
+```
 
 ## Installation
 ```bash
@@ -26,6 +28,7 @@ cd nominatim_Workshop-country
 pip install -r requirements.txt
 playwright install
 python src/main.py
+```
 
 #### 👨💻 About This Project
 
@@ -35,4 +38,5 @@ You can check out my other projects on [GitHub](https://github.com/Zhasulan-Agyb
 
 
 ## ⚖️ License
+
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
