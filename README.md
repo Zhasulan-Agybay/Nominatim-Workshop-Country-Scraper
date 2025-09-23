@@ -34,7 +34,7 @@ python src/main.py
 ```
 
 ## Demo.gif
-![Demo_GIF](docs/demo)
+![Demo_GIF](Nominatim-Workshop-Country-Scraper/docs/demo.gif)
 
 #### 👨💻 About This Project
 
